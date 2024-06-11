@@ -1,22 +1,2 @@
 #!/bin/bash
-ls -all drwxr-xr-x 1 ruzu ruzu 362 Jun 11 00:00 .
-drwxr-xr-x 1 ruzu ruzu  38 Jun 10 14:56 ..
--rwxr--r-- 1 ruzu ruzu  16 Jun 10 15:09 0-current_working_directory
--rwxr--r-- 1 ruzu ruzu  17 Jun 10 22:12 10-back
--rwxr--r-- 1 ruzu ruzu  44 Jun 11 00:00 11-lists
--rwxr--r-- 1 ruzu ruzu  15 Jun 10 15:18 1-listit
--rwxr--r-- 1 ruzu ruzu  15 Jun 10 15:38 2-bring_me_home
--rwxr--r-- 1 ruzu ruzu  18 Jun 10 15:47 3-listfiles
--rwxr--r-- 1 ruzu ruzu  19 Jun 10 15:53 4-listmorefiles
--rwxr--r-- 1 ruzu ruzu  20 Jun 10 16:10 5-listfilesdigitonly
--rwxr--r-- 1 ruzu ruzu  43 Jun 10 16:43 6-firstdirectory
--rwxr--r-- 1 ruzu ruzu  50 Jun 10 21:48 7-movethatfile
--rwxr--r-- 1 ruzu ruzu  45 Jun 10 21:53 8-firstdelete
--rwxr--r-- 1 ruzu ruzu  42 Jun 10 21:59 9-firstdirdeletion
--rw-r--r-- 1 ruzu ruzu  12 Jun 10 15:12 README.md
-
-drwxr-xr-x 1 ruzu ruzu  38 Jun 10 14:56 .
-drwxr-xr-x 1 ruzu ruzu 330 Jun 11 00:00 ..
-drwxr-xr-x 1 ruzu ruzu 362 Jun 11 00:00 basics
-drwxr-xr-x 1 ruzu ruzu 144 Jun 11 00:00 .git
--rw-r--r-- 1 ruzu ruzu  20 Jun 10 14:56 README.md
+ls -all .,.., 0-current_working_directory, 10-back, 11-lists, 1-listit, 2-bring_me_home, 3-listfiles, 4-listmorefiles, 5-listfilesdigitonly, 6-firstdirectory, 7-movethatfile, 8-firstdelete, 9-firstdirdeletion, README.md/./../basics/.git/README.md
