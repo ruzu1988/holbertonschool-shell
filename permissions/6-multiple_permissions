@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 701
+chmod u+x , g+x , o+r 
