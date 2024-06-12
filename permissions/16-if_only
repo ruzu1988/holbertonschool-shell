@@ -1,2 +1,2 @@
 #!/bin/bash
-chown sudo vincent 
+chown guillaume vincent 
