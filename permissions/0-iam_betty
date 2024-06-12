@@ -1,2 +1,2 @@
 #!/bin/bash
-su newuser
+chown betty
