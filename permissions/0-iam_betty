@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown you betty
+user1 user2
