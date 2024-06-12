@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 777 -R
+chown 777 -r
