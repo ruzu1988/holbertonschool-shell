@@ -1,2 +1,2 @@
 #!/bin/bash
-ls rm="/usr/bin/rm -i"
+echo ls rm="/usr/bin/rm -i"
